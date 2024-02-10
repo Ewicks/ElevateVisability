@@ -1,8 +1,7 @@
 import React from 'react'
 import { FaPhone } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-
-
+import { Link } from 'react-router-dom';
 
 
 const Footer = () => {
@@ -11,7 +10,7 @@ const Footer = () => {
         <div className="row">
             <div className="col-4 d-flex justify-content-center align-items-center flex-column my-5">
                 <div className="logo">
-                    <a className='footer-logo' href='/'>ElevateVisability</a>
+                    <Link className='footer-logo' to='/'>ElevateVisability</Link>
                 </div>
                 <div className="phone mt-3">
                     <FaPhone />
@@ -19,7 +18,7 @@ const Footer = () => {
                 </div>
                 <div className="email">
                     <MdEmail />
-                    <a href="#">ethanowicks9@gmail.com</a>
+                    <p>ethanowicks9@gmail.com</p>
                 </div>
                 <div className="text-center">
                     <p className='my-4 mx-3'>© 2024 ElevateVisability | FAQ Privacy Policy</p>
@@ -30,16 +29,19 @@ const Footer = () => {
                     <ul>
                         <p className='links-title'>LINKS</p>
                         <li>
-                            <a href="/pricing">Pricing</a>
+                            <Link to='/pricing'>Pricing</Link>
                         </li>
                         <li>
-                            <a href="/about">About</a>
+                            <Link to='/about'>About</Link>
+
                         </li>
                         <li>
-                            <a href="/blos">Blogs</a>
+                            <Link to='/blogs'>Blogs</Link>
+
                         </li>
                         <li>
-                            <a href="/Contact">Contact</a>
+                            <Link to='/contact'>Contact</Link>
+
                         </li>
                     </ul>
                 </div>

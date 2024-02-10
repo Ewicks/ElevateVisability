@@ -1,5 +1,7 @@
 import React from 'react';
 import { TiTick } from "react-icons/ti";
+import { Link } from 'react-router-dom';
+
 
 function pricing() {
   return (
@@ -41,7 +43,7 @@ function pricing() {
                   <p className='ms-4'>Custom instance sizing</p>
                 </div>
               </div>
-              <a href="#" className='price-btn price-blue-btn'>Contact Us</a>
+              <Link to='/contact' className='price-btn price-blue-btn'>Contact Us</Link>
             </div>
           </div>
           <div className="col-md-4 col-sm-12 my-3">
@@ -77,7 +79,7 @@ function pricing() {
                     <p className='ms-4'>Custom instance sizing</p>
                 </div>
               </div>
-              <a href="#" className='price-btn'>Contact Us</a>
+              <Link to='/contact' className='price-btn'>Contact Us</Link>
             </div>
           </div>
           <div className="col-md-4 col-sm-12 my-3">

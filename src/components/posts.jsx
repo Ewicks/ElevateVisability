@@ -19,7 +19,6 @@ function Posts({ posts, loading }) {
               <h3 className='card-title'>{post.title}</h3>
               <p className='card-text'>{truncateText(post.text, 150)}</p>
               <p className='card-author'>{post.author} / {post.date}</p>
-              {/* <a href="#" className='blog-btn'>Contact Us</a> */}
             </div>
           </div>
         </div>

@@ -3,6 +3,7 @@ import '../../src/App.css';
 import { NavLink } from 'react-router-dom';
 import { RiMenu4Fill } from "react-icons/ri";
 import { IoMdClose } from "react-icons/io";
+import { Link } from 'react-router-dom';
 
 
 
@@ -17,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container-fluid navbar-m mx-5">
         <div className="logo">
-        <a href='/' className='logo'>ElevateVisability</a>
+        <Link to='/' className='logo'>ElevateVisability</Link>
         </div>
         
         <div className="menu-icon" onClick={handleShowNavbar}>
