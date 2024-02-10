@@ -334,6 +334,39 @@ body {
 }
 
 
+/* Blogs */
+
+.post-card {
+  min-height: 475px;
+  min-width: 280px;
+}
+
+.card-author {
+  color: #70768B;
+}
+
+.card-title {
+  color: hsl(270, 70%, 75%);
+}
+
+.card-text {
+  color: hsl(270, 70%, 85%);
+}
+
+.page-link {
+  background-color: hsl(270, 60%, 52%) !important;
+  border-color: hsl(270, 70%, 65%) !important;
+}
+
+.pagination li a {
+  color: black;
+}
+
+.pagination li a:hover {
+  color: white;
+
+}
+
 /* Contact */
 
 .contact-container {
