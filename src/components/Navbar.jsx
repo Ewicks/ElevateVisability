@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import Hamburger from '../assets/images/menu.png';
 import '../../src/App.css';
+import { NavLink } from 'react-router-dom';
+
 
 
 const Navbar = () => {
@@ -14,7 +16,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container-fluid mx-5">
         <div className="logo">
-        <h1>ElevateVisability</h1>
+        <a href='/'>ElevateVisability</a>
 
 
         </div>
@@ -25,17 +27,18 @@ const Navbar = () => {
         <div className={`nav-elements  ${showNavbar && 'active'}`}>
           <ul>
             <li>
-              Contact
+                <NavLink to="/pricing">Pricing</NavLink>
             </li>
             <li>
-              Contact
+                <NavLink to="/about">About</NavLink>
             </li>
             <li>
-              Contact
+                <NavLink to="/blogs">Blogs</NavLink>
             </li>
             <li>
-              Contact
+                <NavLink to="/contact">Contact</NavLink>
             </li>
+           
           </ul>
         </div>
       </div>
