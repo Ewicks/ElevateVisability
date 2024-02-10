@@ -34,7 +34,7 @@ const App = () => {
   return (
     <div className="container">
       <div className="row">
-        <div className="col text-light my-5 d-flex justify-content-start align-items-center flex-column">
+        <div className="col text-light my-5 d-flex justify-content-flex-start align-items-center flex-column">
           <h1>Get In Touch With Us</h1>
           <p className="about-subtitle">We will get back to you as soon as possible</p>
           <hr className="contact-hr"/>
