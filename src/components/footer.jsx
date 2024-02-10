@@ -17,11 +17,7 @@ const Footer = () => {
                 </div>
                 <div className="phone mt-3">
                     <FaPhone />
-                    <p className='phone-number'>0203 930 3139</p>
-                </div>
-                <div className="phone">
-                    <FaPhone />
-                    <p className='phone-number'>0203 930 3139</p>
+                    <p className='phone-number'>07572012255</p>
                 </div>
                 <div className="email">
                     <MdEmail />

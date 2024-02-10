@@ -333,6 +333,63 @@ body {
   text-align: center;
 }
 
+/* About */
+
+.about {
+  height: 50vh;
+}
+
+.about-title {
+  font-weight: 800;
+  color: white;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.about-subtitle {
+  color: #878593;
+  text-align: center;
+}
+
+.about-hr {
+  border: 1px solid hsl(246, 18%, 15%);
+  width: 100%;
+  margin: 80px 0px;
+}
+
+.sales-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-image: linear-gradient(141.64deg,#26066b 3.52%,#0e3551 66.02%,#052847 88.03%);
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.sales-subtitle {
+  text-align: left;
+  color: #878593;
+
+}
+
+.sales-text {
+}
+
+.sales-img {
+  height: 100px;
+  width: 100px;
+}
+
+.container-2 {
+  background-image: linear-gradient(200.41deg,rgba(99,29,62,.4) -5.53%,rgba(35,98,111,.5) 97.77%) !important;
+}
+
+.container-3 {
+  background-image: linear-gradient(110.1deg,rgba(46,29,99,.4),#3d0f34) !important;
+}
 
 /* Blogs */
 
