@@ -36,7 +36,7 @@ const App = () => {
       <div className="row">
         <div className="col text-light my-5 d-flex justify-content-start align-items-center flex-column">
           <h1>Get In Touch With Us</h1>
-          <p>adawd asd a</p>
+          <p className="about-subtitle">We will get back to you as soon as possible</p>
           <hr className="contact-hr"/>
 
           <Form className="my-5" onSubmit={handleOnSubmit}>

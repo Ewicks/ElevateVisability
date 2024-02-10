@@ -88,13 +88,25 @@ body {
   .menu-icon {
     display: block;
     cursor: pointer;
+    font-size: 30px;
+    z-index: 99999;
+  }
+
+  .navbar-m {
+    margin: 0px !important;
+  }
+
+  .logo {
+    font-size: 20px;
   }
 
   .nav-elements {
-    position: absolute;
+    position: fixed;
     right: 0;
-    top: 78px;
-    background-color: #DD4B12;
+    top: 0px;
+    height: 100vh !important;
+    background: hsl(0 0% 100% / 0.1);
+    backdrop-filter: blur(0.5em);
     width: 0px;
     height: calc(100vh - 60px);
     transition: all 0.3s ease-in;
@@ -108,6 +120,7 @@ body {
   .nav-elements ul {
     display: flex;
     flex-direction: column;
+    margin-top: 100px;
   }
 
   .nav-elements ul li {
