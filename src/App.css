@@ -8,6 +8,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.logo {
+  font-size: 40px;
+  text-decoration: none;
+  color: white;
+}
 .navbar {
   height: 10vh;
   position: relative;
@@ -326,6 +331,54 @@ body {
   text-decoration: none;
   font-weight: 800;
   text-align: center;
+}
+
+
+/* Contact */
+
+.contact-container {
+  height: 400px;
+  width: 400px;
+  color: white;
+  background-color: transparent;
+}
+
+.contact-section {
+  height: 80vh;
+}
+
+.contact-hr {
+  border: 1px solid hsl(270, 60%, 72%);
+  width: 30%;
+}
+
+form input {
+  background: transparent;
+  color: white;
+  border-style: solid;
+  border: 1px solid hsl(246, 11%, 22%);
+  padding: 10px;
+  width: 400px;
+}
+
+form textarea {
+  background: transparent;
+  width: 400px;
+  padding: 10px;
+  color: white;
+}
+
+form input:hover {
+  border-color: hsl(246,  7%, 45%);
+}
+
+.contact-btn {
+  background-color: hsl(270, 60%, 52%);
+  color: white;
+}
+
+.contact-btn:hover {
+  background-color: hsl(270, 70%, 65%);
 }
 
 /* Footer */

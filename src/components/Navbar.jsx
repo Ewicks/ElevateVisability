@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container-fluid mx-5">
         <div className="logo">
-        <a href='/'>ElevateVisability</a>
+        <a href='/' className='logo'>ElevateVisability</a>
 
 
         </div>
