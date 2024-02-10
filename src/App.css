@@ -277,20 +277,42 @@ body {
   border: 1px solid hsl(220, 62%, 25%) !important;
 }
 
+.green-card {
+  border: 1px solid hsl(152, 32%, 16%) !important;
+}
 .blue-text {
   color: hsl(220, 80%, 85%) !important;
+}
+.green-text {
+  color: hsl(152, 38%, 80%) !important;
 }
 
 .card-type-blue {
   color: hsl(220, 80%, 75%) !important;
 }
 
+.card-type-green {
+  color: hsl(152, 38%, 70%) !important;
+}
+
 .price-blue {
   color: hsl(220, 80%, 65%) !important;
 }
 
+.price-green {
+  color: hsl(152, 38%, 70%) !important;
+}
+
 .price-hr-blue {
   border-color: hsl(220, 62%, 25%) !important;
+}
+
+.price-hr-green {
+  border-color: hsl(246, 18%, 15%) !important;
+}
+
+.price-btn-green {
+  background-color: hsl(152, 38%, 42%) !important;
 }
 
 .blue-points {
