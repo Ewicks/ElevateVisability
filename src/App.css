@@ -246,6 +246,88 @@ body {
   border: 1px solid white;
 }
 
+
+/* Pricing */
+
+.pricing-subtitle {
+  color: #70768B;
+}
+
+.pricing-title {
+  font-weight: 800;
+}
+
+.card {
+  background-color: #13121D;
+  border: 1px solid hsl(270, 45%, 24%);
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+
+.blue-card {
+  border: 1px solid hsl(220, 62%, 25%) !important;
+}
+
+.blue-text {
+  color: hsl(220, 80%, 85%) !important;
+}
+
+.card-type-blue {
+  color: hsl(220, 80%, 75%) !important;
+}
+
+.price-blue {
+  color: hsl(220, 80%, 65%) !important;
+}
+
+.price-hr-blue {
+  border-color: hsl(220, 62%, 25%) !important;
+}
+
+.blue-points {
+  color: #5E8EED !important;
+}
+
+.price-blue-btn {
+  background-color: hsl(220, 80%, 55%) !important;
+}
+
+.card-type {
+  color: hsl(270, 70%, 75%);
+}
+
+.card-type-text {
+  color: hsl(270, 70%, 85%);
+}
+
+.price {
+  color: hsl(270, 70%, 65%);
+}
+
+.price-hr {
+  border: 1px solid hsl(270, 45%, 24%);
+  width: 100%;
+}
+
+.pricing-points {
+  color: hsl(270, 70%, 65%);
+}
+
+.price-btn {
+  background-color:  hsl(270, 60%, 52%);
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 800;
+  text-align: center;
+}
+
 /* Footer */
 .footer {
   /* background-color: #010101; */
@@ -311,7 +393,6 @@ body {
   color: hsl(246, 6%, 55%);
   margin: 10px 0px;
 }
-
 
 
 
