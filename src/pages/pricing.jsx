@@ -118,7 +118,7 @@ function pricing() {
                 
                 
               </div>
-              <a href="#" className='price-btn price-btn-green'>Contact Us</a>
+              <Link to='/contact' className='price-btn price-btn-green'>Contact Us</Link>
             </div>
           </div>
         </div>
