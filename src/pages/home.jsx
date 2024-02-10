@@ -10,7 +10,7 @@ function home() {
                     <div className="col d-flex justify-content-center align-items-start flex-column px-5">
                         <h1 className='text-light home-title'>Instant Deployments, <br /> Effortless Scale</h1>
                         <p className='home-subtitle'>Railway is the cloud for building, shipping, and monitoring applications. No Platform Engineer required.</p>
-                        <a href="" className='home-btn'>Contact Us</a>
+                        <a href="#" className='home-btn'>Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@ function home() {
                         <div className="contact-container bg-opacity-50 text-light">
                             <h2>Deploy an app to <br /> production in minutes</h2>
                             <p>Join hundreds of thousands of users deploying <br /> applications effortlessly on Railway</p>
-                            <a href="" className='home-btn'>Contact Us</a>
+                            <a href="#" className='home-btn'>Contact Us</a>
                         </div>
                     </div>
                 </div>

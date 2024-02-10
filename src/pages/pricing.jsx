@@ -41,7 +41,7 @@ function pricing() {
                   <p className='ms-4'>Custom instance sizing</p>
                 </div>
               </div>
-              <a href="" className='price-btn price-blue-btn'>Contact Us</a>
+              <a href="#" className='price-btn price-blue-btn'>Contact Us</a>
             </div>
           </div>
           <div className="col-md-4 col-sm-12 my-3">
@@ -77,7 +77,7 @@ function pricing() {
                     <p className='ms-4'>Custom instance sizing</p>
                 </div>
               </div>
-              <a href="" className='price-btn'>Contact Us</a>
+              <a href="#" className='price-btn'>Contact Us</a>
             </div>
           </div>
           <div className="col-md-4 col-sm-12 my-3">
@@ -116,7 +116,7 @@ function pricing() {
                 
                 
               </div>
-              <a href="" className='price-btn price-btn-green'>Contact Us</a>
+              <a href="#" className='price-btn price-btn-green'>Contact Us</a>
             </div>
           </div>
         </div>
