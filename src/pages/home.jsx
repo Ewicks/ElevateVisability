@@ -9,7 +9,7 @@ function home() {
         <section>
             <div className="container-fluid">
                 <div className="row home-page">
-                    <div className="col d-flex justify-content-center align-items-start flex-column px-5">
+                    <div className="col d-flex justify-content-center align-items-flex-start flex-column px-5">
                         <h1 className='text-light home-title'>Instant Deployments, <br /> Effortless Scale</h1>
                         <p className='home-subtitle'>Railway is the cloud for building, shipping, and monitoring applications. No Platform Engineer required.</p>
                         <Link to='/contact' className='home-btn'>Contact Us</Link>
@@ -42,7 +42,7 @@ function home() {
                     <div className="col-2 d-flex justify-content-center align-items-center">
                         <div className='middle-part'></div>
                     </div>
-                    <div className="col-5 d-flex flex-column gap-5 justify-content-center align-items-start">
+                    <div className="col-5 d-flex flex-column gap-5 justify-content-center align-items-flex-start">
                     <div className="box">
                             <h2 className='box-title'>All Code Welcome</h2>
                             <p className='box-text'>From Ada to Zig, start by deploying a repo, an image, or a template.</p>
@@ -81,7 +81,7 @@ function home() {
                     <div className="col-2 d-flex justify-content-center align-items-center">
                         <div className='middle-part middle-part-green'></div>
                     </div>
-                    <div className="col-5 d-flex flex-column gap-5 justify-content-center align-items-start">
+                    <div className="col-5 d-flex flex-column gap-5 justify-content-center align-items-flex-start">
                     <div className="box box-green">
                             <h2 className='box-title-green'>All Code Welcome</h2>
                             <p className='box-text'>From Ada to Zig, start by deploying a repo, an image, or a template.</p>
