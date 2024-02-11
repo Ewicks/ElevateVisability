@@ -484,6 +484,10 @@ body {
 
 /* Contact */
 
+form {
+  width: 100%;
+  display: block;
+}
 
 
 .contact-section {
@@ -501,14 +505,17 @@ form input {
   border-style: solid;
   border: 1px solid hsl(246, 11%, 22%);
   padding: 10px;
-  width: 400px;
+  max-width: 400px;
+  width: -webkit-fill-available;
 }
 
 form textarea {
   background: transparent;
-  width: 400px;
+  max-width: 400px;
+  width: -webkit-fill-available;
   padding: 10px;
   color: white;
+  height: 150px;
 }
 
 form input:hover {

@@ -28,7 +28,7 @@ function Blog() {
   return (
     <div className='gallary-padding container'>
       <div className="row my-5">
-        <div className="col">
+        <div className="col px-4">
           <h1 className='text-light'>Blog</h1>
         </div>
       </div>

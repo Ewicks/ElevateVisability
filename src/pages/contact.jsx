@@ -33,14 +33,14 @@ const App = () => {
 
   return (
     <div className="container">
-      <div className="row">
+      <div className="row mx-3">
         <div className="col text-light my-5 d-flex justify-content-flex-start align-items-center flex-column">
           <h1>Get In Touch With Us</h1>
           <p className="about-subtitle">We will get back to you as soon as possible</p>
           <hr className="contact-hr"/>
 
-          <Form className="my-5" onSubmit={handleOnSubmit}>
-            <div className="form-content">
+          <Form className="my-5 form-control" onSubmit={handleOnSubmit}>
+            <div className="form-content d-block text-center">
               <div className="contact-form-border"></div>
               <Form.Field
                 id="form-input-control-email"

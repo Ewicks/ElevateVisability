@@ -27,16 +27,16 @@ const Navbar = () => {
         <div className={`nav-elements  ${showNavbar && 'active'}`}>
           <ul>
             <li>
-                <NavLink to="/pricing">Pricing</NavLink>
+                <NavLink onClick={() => setShowNavbar(false)} to="/pricing">Pricing</NavLink>
             </li>
             <li>
-                <NavLink to="/about">About</NavLink>
+                <NavLink onClick={() => setShowNavbar(false)} to="/about">About</NavLink>
             </li>
             <li>
-                <NavLink to="/blogs">Blogs</NavLink>
+                <NavLink onClick={() => setShowNavbar(false)} to="/blogs">Blogs</NavLink>
             </li>
             <li>
-                <NavLink to="/contact">Contact</NavLink>
+                <NavLink onClick={() => setShowNavbar(false)} to="/contact">Contact</NavLink>
             </li>
            
           </ul>
