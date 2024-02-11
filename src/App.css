@@ -97,7 +97,7 @@ body {
   }
 
   .logo {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   .nav-elements {
@@ -127,22 +127,36 @@ body {
     margin-right: unset;
     margin-top: 22px;
   }
+
+  .home-title {
+    font-size: 40px !important;
+  }
+
+  .home-subtitle {
+    font-size: 15px !important;
+  }
+
+  .box {
+    max-width: 100% !important;
+  }
 }
 
 /* Home */
 
 .home-page {
-  min-height: 100vh;
+  margin-bottom: 200px;
 }
 
 .home-title {
   font-size: 60px;
   font-weight: 800;
+  margin-top: 150px;
+  margin-bottom: 30px;
 }
 
 .home-subtitle {
   color: #878593;
-  font-size: 30px;
+  font-size: 20px;
   max-width: 750px;
   font-weight: 400;
 }
@@ -152,7 +166,9 @@ body {
   text-decoration: none;
   color: white;
   font-weight: 600;
+  width: fit-content;
   padding: 12px 44px;
+  white-space: nowrap;
   border-radius: 10px;
   border: 1px solid linear-gradient(76.35deg,#801ae6 15.89%,#a21ae6 89.75%);
   /* border-color: hsl(270, 60%, 52%); */
@@ -257,12 +273,19 @@ body {
 .contact-container {
   padding: 40px;
   border-radius: 10px;
-  height: 100%;
-  width: 100%;
+  max-height: 400px;
+  max-width: 400px;
   text-align: center;
-  background: rgba(66, 148, 110, .2);
+  background: transparent;
   border: 1px solid white;
 }
+
+.extra-m {
+  margin-bottom: 100px !important;
+  display: flex;
+  flex-direction: column;
+}
+
 
 
 /* Pricing */
@@ -456,12 +479,7 @@ body {
 
 /* Contact */
 
-.contact-container {
-  height: 400px;
-  width: 400px;
-  color: white;
-  background-color: transparent;
-}
+
 
 .contact-section {
   height: 80vh;
@@ -578,3 +596,29 @@ form input:hover {
 
 
 
+@media (max-width: 420px) {
+  .home-title {
+    font-size: 30px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .line-col {
+    display: none !important;
+  }
+
+  .d-line-none {
+    display: none !important;
+  }
+
+  .x-pad {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .align-c {
+    align-items: center !important;
+  } 
+
+}
