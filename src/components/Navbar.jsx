@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container-fluid navbar-m mx-5">
         <div className="logo">
-        <Link to='/' className='logo'>ElevateVisability</Link>
+        <Link to='/' onClick={() => setShowNavbar(false)} className='logo'>ElevateVisability</Link>
         </div>
         
         <div className="menu-icon" onClick={handleShowNavbar}>
