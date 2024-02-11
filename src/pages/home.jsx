@@ -22,12 +22,12 @@ function home() {
         <section>
             <div className="container-fuid my-5">
                 <div className="row">
-                    <div className="col d-flex justify-content-center flex-column">
+                    <div className="col d-flex justify-content-center flex-column align-items-center">
                         <p className='one-circle mx-auto'>1</p>
-                        <h2 className='text-center title'>Now Boarding, Express</h2>
+                        <h2 className='text-center title'>Up your digital game</h2>
                         <h1 className='text-center text-light'>Our Services</h1>
                         <hr className='border-bottom-blue my-5 mx-auto'></hr>
-                        <p className='text-light text-center mb-5 mx-5'>Railway provides infrastructure primitives with sane defaults to manage secrets, builds, and deploys. So you can start <br /> quickly and focus on your product.</p>
+                        <p className='text-light text-center mb-5 subtitle-p'>Established since 2008, we are a UK-based website development company with clients who come to us for highly skilled and future-proof coding and web design, at a fair price and stay with us for our commitment to supporting their digital businesses for the long term.</p>
                     </div>
                 </div>
                 <div className="row mx-5">
@@ -101,18 +101,14 @@ function home() {
                 <div className="row">
                     <div className="col d-flex flex-column justify-content-center align-items-center mx-5">
                         <div className="contact-container bg-opacity-50 text-light">
-                            <h2>Deploy an app to <br /> production in minutes</h2>
-                            <p>Join hundreds of thousands of users deploying <br /> applications effortlessly on Railway</p>
+                            <h2>Contact us <br />to learn more</h2>
+                            <p>We are happy to talk over the phone more about what we can offer and if you are a good fit for us.</p>
                             <Link to='/contact' className='home-btn btn'>Contact Us</Link>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        
-        
-
-
     </div>
   )
 }

@@ -41,18 +41,18 @@ function about() {
       <div className="container">
         <div className="row">
           <div className="col text-light">
-            <h1 className='about-title mt-0'>What we offer</h1>
-            <p className='about-subtitle mb-5'>A dashboard that provides unparalleled hospitality.</p>
+            <h1 className='about-title mb-5'>What we offer</h1>
           </div>
         </div>
         <div className="row px-4 mb-3">
           <div className="col-12 d-flex flex-column">
             <div className="sales-container gap-5 px-5">
               <div className='sales-text text-light'>
-                <h2>Increased sales</h2>
-                <p className='sales-subtitle text-left'>Command the interface at your fingertips. <br />
-                  Go to any page, <br /> create an object, secret, and
-                  much more.</p>
+                <h2>Web Development</h2>
+                <p className='sales-subtitle text-left'>Whether you're
+                 just starting out or looking to revamp your online 
+                 presence, our team is dedicated to creating stunning
+                  websites that not only look great but also drive results.</p>
               </div>
               <div className='image-section'>
                 <img className='sales-img' src={world} alt="" />
@@ -64,10 +64,12 @@ function about() {
           <div className="col-md-6 col-sm-12 mt-3 mb-3 d-flex flex-column">
             <div className="sales-container container-2 gap-5 px-5">
               <div className='sales-text text-light'>
-                <h2>Increased sales</h2>
-                <p className='sales-subtitle text-left'>Command the interface at your fingertips. <br />
-                  Go to any page, <br /> create an object, secret, and
-                  much more.</p>
+                <h2>SEO Optimization</h2>
+                <p className='sales-subtitle text-left'>With SEO,
+                 you can boost online visibility, attract more visitors, 
+                 and convert them into loyal customers. It's a smart,
+                  ongoing investment – like having a 24/7 salesperson 
+                  promoting your business online.</p>
               </div>
               <div className='image-section'>
                 <img className='sales-img' src={world} alt="" />
@@ -77,10 +79,12 @@ function about() {
           <div className="col-md-6 col-sm-12 mt-3 d-flex flex-column">
             <div className="sales-container container-3 gap-5 px-5">
               <div className='sales-text text-light'>
-                <h2>Increased sales</h2>
-                <p className='sales-subtitle text-left'>Command the interface at your fingertips. <br />
-                  Go to any page, <br /> create an object, secret, and
-                  much more.</p>
+                <h2>Website Maintenance</h2>
+                <p className='sales-subtitle text-left'>We ensure that 
+                your online presence remains seamless and up-to-date. We 
+                understand that maintaining a website can be time-consuming
+                and challenging, which is why our team is here to handle all
+                 aspects of upkeep for you.</p>
               </div>
               <div className='image-section'>
                 <img className='sales-img' src={world} alt="" />
