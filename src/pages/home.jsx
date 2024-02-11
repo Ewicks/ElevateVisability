@@ -33,11 +33,11 @@ function home() {
                 <div className="row mx-5">
                     <div className="col-md-5 col-sm-12 d-flex flex-column gap-5 justify-content-center align-c align-items-end align-items-sm-center">
                         <div className="box">
-                            <h2 className='box-title'>eCommerce Development</h2>
+                            <h2 className='box-title mb-3'>eCommerce Development</h2>
                             <p className='box-text'>We are certified developers of world-renowned platforms with experience since 2008.</p>
                         </div>
                         <div className="box">
-                            <h2 className='box-title'>Monthly Support Packages</h2>
+                            <h2 className='box-title mb-3'>Monthly Support Packages</h2>
                             <p className='box-text'>While you are focussed on your business, you can rely on us to keep your website or app up to date, continually optimised and safe from hackers.</p>
                         </div>
                     </div>
@@ -46,11 +46,11 @@ function home() {
                     </div>
                     <div class="col-md-5 x-pad col-sm-12 d-flex flex-column gap-5 justify-content-center align-c align-items-center align-items-sm-center">
                     <div className="box">
-                            <h2 className='box-title'>Full Stack Development</h2>
+                            <h2 className='box-title mb-3'>Full Stack Development</h2>
                             <p className='box-text'>Our Full Stack developers can handle everything to do with web development and can satisfy the needs of both your customers and your business.</p>
                         </div>
                         <div className="box">
-                            <h2 className='box-title'>Technologies</h2>
+                            <h2 className='box-title mb-3'>Technologies</h2>
                             <p className='box-text'>We continuously invest in our people to ensure they are ready for the next upgrade, trend and innovation. We are masters of our craft.</p>
                         </div>
                     </div>
@@ -72,11 +72,11 @@ function home() {
                 <div className="row mx-5">
                     <div className="col-md-5 col-sm-12 d-flex align-c flex-column gap-5 justify-content-center align-items-end align-items-sm-center">
                         <div className="box box-green">
-                            <h2 className='box-title-green'>We design websites for your customers</h2>
+                            <h2 className='box-title-green mb-3'>We design websites for your customers</h2>
                             <p className='box-text'>You only have a few seconds to capture your web visitor's attention, so make sure you do it right. A good website will have a simple, user-friendly layout with easy to follow navigation.</p>
                         </div>
                         <div className="box box-green">
-                            <h2 className='box-title-green'>Award winning web development agency</h2>
+                            <h2 className='box-title-green mb-3'>Award winning web development agency</h2>
                             <p className='box-text'>we’ll deliver services and solutions that meet both your needs and budget whether it be a simple website or full eCommerce solution.</p>
                         </div>
                     </div>
@@ -85,11 +85,11 @@ function home() {
                     </div>
                     <div className="col-md-5 x-pad col-sm-12 align-c d-flex flex-column gap-5 justify-content-center align-items-flex-start align-items-sm-center">
                     <div className="box box-green">
-                            <h2 className='box-title-green'>Business growth is fuelled by continuous digital improvement</h2>
+                            <h2 className='box-title-green mb-3'>Business growth is fuelled by continuous digital improvement</h2>
                             <p className='box-text'>Our team of skilled professionals can step in on any web or app project to get you over the line or be there from the very start.</p>
                         </div>
                         <div className="box box-green">
-                            <h2 className='box-title-green'>We’ll love helping companies grow</h2>
+                            <h2 className='box-title-green mb-3'>We’ll love helping companies grow</h2>
                             <p className='box-text'>Working with a team experienced in both app and web development, ensures your website is not only future proof, but that you will also be able to create a great app to enhance your visitors experience.</p>
                         </div>
                     </div>
