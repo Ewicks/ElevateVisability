@@ -529,6 +529,7 @@ form input:hover {
 .links-title {
   font-weight: 800;
   color: #878593;
+  font-size: 20px;
 }
 
 .footer-column ul li a{
@@ -594,6 +595,14 @@ form input:hover {
   margin: 10px 0px;
 }
 
+@media (max-width: 575.98px) {
+  .order-xs-1 {
+    order: 1 !important;
+  }
+  .order-xs-2 {
+    order: 2 !important;
+  }
+}
 
 
 @media (max-width: 420px) {

@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className='footer'>
         <div className="row">
-            <div className="col-4 d-flex justify-content-center align-items-center flex-column my-5">
+            <div className="col-md-6 col-sm-12 order-sm-2 order-xs-2 d-flex justify-content-center align-items-center flex-column my-5">
                 <div className="logo">
                     <Link className='footer-logo' to='/'>ElevateVisability</Link>
                 </div>
@@ -24,9 +24,9 @@ const Footer = () => {
                     <p className='my-4 mx-3'>© 2024 ElevateVisability | FAQ Privacy Policy</p>
                 </div>
             </div>
-            <div className="col-8 d-flex justify-content-center align-items-center">
+            <div className="col-md-6 col-sm-12 order-sm-1 order-xs-1 d-flex justify-content-center align-items-center">
                 <div className="footer-column">
-                    <ul>
+                    <ul className='p-0'>
                         <p className='links-title'>LINKS</p>
                         <li>
                             <Link to='/pricing'>Pricing</Link>
