@@ -487,6 +487,8 @@ body {
 form {
   width: 100%;
   display: block;
+  background: transparent !important;
+  border: none !important;
 }
 
 
