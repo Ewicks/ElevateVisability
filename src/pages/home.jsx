@@ -20,7 +20,7 @@ function home() {
             </div>
         </section>
         <section>
-            <div className="container-fuid my-5">
+            <div className="container-fluid my-5">
                 <div className="row">
                     <div className="col d-flex justify-content-center flex-column align-items-center">
                         <p className='one-circle mx-auto'>1</p>
@@ -58,15 +58,16 @@ function home() {
             </div>
         </section>
         <section className='section-cut extra-m'>
+            {/* <div className="extra-m"> */}
+            <div className='cut'></div>
             <div className="container-fluid extra-m">
-                <div className='cut'></div>
                 <div className="row">
                     <div className="col d-flex justify-content-center flex-column">
                         <p className='one-circle green-circle mx-auto'>2</p>
                         <h2 className='text-center title green'>From start-ups to big business </h2>
                         <h1 className='text-center text-light'>Trust us with your development needs</h1>
                         <hr className='border-bottom-green my-5 mx-auto'></hr>
-                        <p className='text-light text-center mb-5'>Railway provides infrastructure primitives with sane defaults to manage secrets, builds, and deploys. So you can start <br /> quickly and focus on your product.</p>
+                        <p className='text-light text-center mb-5'>Discover how our expertise in web design and development can propel your business forward.</p>
                     </div>
                 </div>
                 <div className="row mx-5">

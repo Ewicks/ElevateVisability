@@ -16,9 +16,13 @@ function about() {
         <div className="row">
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column text-light">
             <h2>We beleive...</h2>
-            <p className='about-para'>You should simply be able to work on your
-               core product without having to worry about
-                infrastructure and how to deploy it.</p>
+            <p className='about-para'>With a dedicated team of professionals, 
+            we strive to always kepp up to date with latest technologies,
+            designs to ensure we continue to surpass our competition. We will not stop 
+            until we have exceeded our clients expectations. <br /> <br />
+            Our goal is to help all businesses to get to the next level by generating more business
+            via their new tailord website via the power of SEO and added professionalism a website will
+            add to the business which greatly underestimated in this digital age.</p>
           </div>
           <div className="col-md-6 col-sm-12 d-flex align-items-center justify-content-center">
             <img src={world} className='about-img' alt="" />
