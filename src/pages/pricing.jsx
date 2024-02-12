@@ -139,7 +139,7 @@ function pricing() {
       <div className="container">
         <div className="row">
           <div className="col-12 d-flex align-items-center justify-content-center my-5">
-            <Link to='/about' className='learn-more-btn btn'>
+            <Link to='/about' className='learn-more-btn'>
               <span className='learn-more-text'>Learn More</span>About Us <FaArrowRight className='arrow-right-about' />
 
             </Link>

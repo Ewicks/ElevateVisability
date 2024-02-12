@@ -412,6 +412,10 @@ body {
   padding: 15px 30px;
 }
 
+.learn-more-btn:hover {
+  box-shadow: -8px 4px 16px rgba(104,16,216,.2), 8px -4px 16px rgba(205,60,201,.2);
+}
+
 .learn-more-text {
   color: #878593;
   margin-right: 5px;

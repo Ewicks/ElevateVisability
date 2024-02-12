@@ -34,11 +34,13 @@ function about() {
           </div>
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column text-light">
             <h2>We beleive...</h2>
-            <p className='about-para'>You should simply be able to work on your
-               core product without having to worry about
-                infrastructure and how to deploy it.</p>
+            <p className='about-para'>At ElevateVisibility, we understand that
+             your time and energy should be focused on your core product or
+             service, not on navigating complex infrastructure or deployment 
+             challenges. That's why we're here to provide seamless solutions 
+             that allow you to concentrate on what you do best while we handle 
+             the rest.</p>
           </div>
-          
         </div>
       </div>
       <hr className='about-hr'/>
