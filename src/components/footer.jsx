@@ -9,7 +9,7 @@ const Footer = () => {
     <div className='footer container-fluid'>
         <div className="row">
             <div className="col-md-6 col-sm-12 order-sm-2 order-xs-2 d-flex justify-content-center align-items-center flex-column my-5">
-                <div className="logo">
+                <div className="">
                     <Link className='footer-logo' to='/'>ElevateVisability</Link>
                 </div>
                 <div className="phone mt-3">
@@ -18,7 +18,7 @@ const Footer = () => {
                 </div>
                 <div className="email">
                     <MdEmail />
-                    <p>ethanowicks9@gmail.com</p>
+                    <p className='email-text'>ethanowicks9@gmail.com</p>
                 </div>
                 <div className="text-center">
                     <p className='my-4 mx-3'>© 2024 ElevateVisability | FAQ Privacy Policy</p>

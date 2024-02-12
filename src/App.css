@@ -586,6 +586,10 @@ form input:hover {
   color: white;
 }
 
+.email-text {
+  margin: 0px 0px 0px 5px;
+}
+
 .phone {
   display: flex;
 }
@@ -609,7 +613,6 @@ form input:hover {
 
 .phone-number {
   margin-left: 5px;
-  margin-bottom: 0px;
 }
 
 .email-address {
