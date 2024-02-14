@@ -23,7 +23,6 @@ const Navbar = () => {
           <img src={Logo} className='logo' alt="" />
         </Link>
         </div>
-        
         <div className="menu-icon" onClick={handleShowNavbar}>
           {showNavbar ? <IoMdClose /> : <RiMenu4Fill />}
         </div>
@@ -41,7 +40,6 @@ const Navbar = () => {
             <li>
                 <NavLink onClick={() => setShowNavbar(false)} to="/contact">Contact</NavLink>
             </li>
-           
           </ul>
         </div>
       </div>

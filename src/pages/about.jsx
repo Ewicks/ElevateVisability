@@ -1,5 +1,7 @@
 import React from 'react'
 import world from '../assets/images/ball3.png';
+import MarketingImg from '../assets/images/marketing-img.png';
+import MarketingImg2 from '../assets/images/team-photo.jpg';
 
 function about() {
   return (
@@ -25,12 +27,12 @@ function about() {
             add to the business which greatly underestimated in this digital age.</p>
           </div>
           <div className="col-md-6 col-sm-12 d-flex align-items-center justify-content-center">
-            <img src={world} className='about-img' alt="" />
+            <img src={MarketingImg2} className='about-img' alt="" />
           </div>
         </div>
         <div className="row">
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center my-5">
-            <img src={world} className='about-img' alt="" />
+            <img src={MarketingImg} className='about-img' alt="" />
           </div>
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column text-light">
             <h2>We beleive...</h2>
