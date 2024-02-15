@@ -36,6 +36,18 @@ function pricing() {
                   <div className="tick position-absolute">
                     <TiTick />
                   </div>
+                  <p className='ms-4'>Basic SEO</p>
+                </div>
+                <div className="point position-relative">
+                    <div className="tick position-absolute">
+                      <TiTick />
+                    </div>
+                    <p className='ms-4'>Mobile Responsiveness: Ensure your website looks great seamlessly on all devices</p>
+                </div>
+                <div className="point position-relative">
+                  <div className="tick position-absolute">
+                    <TiTick />
+                  </div>
                   <p className='ms-4'>Website maintenance: Add, edit, delete features, text or images and fix any bugs if needed.</p>
                 </div>
               </div>
