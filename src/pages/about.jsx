@@ -4,6 +4,7 @@ import MarketingImg from '../assets/images/marketing-img.png';
 import MarketingImg2 from '../assets/images/team-photo.jpg';
 
 function about() {
+ 
   return (
     <div>
       <div className="container-fluid about">
@@ -17,13 +18,13 @@ function about() {
       <div className="container-fluid">
         <div className="row">
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column text-light">
-            <h2>We beleive...</h2>
+            <h2>We believe...</h2>
             <p className='about-para'>With a dedicated team of professionals, 
-            we strive to always kepp up to date with latest technologies,
+            we strive to always keep up to date with latest technologies,
             designs to ensure we continue to surpass our competition. We will not stop 
             until we have exceeded our clients expectations. <br /> <br />
             Our goal is to help all businesses to get to the next level by generating more business
-            via their new tailord website via the power of SEO and added professionalism a website will
+            via their new tailored website via the power of SEO and added professionalism a website will
             add to the business which greatly underestimated in this digital age.</p>
           </div>
           <div className="col-md-6 col-sm-12 d-flex align-items-center justify-content-center">
@@ -35,7 +36,7 @@ function about() {
             <img src={MarketingImg} className='about-img' alt="" />
           </div>
           <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column text-light">
-            <h2>We beleive...</h2>
+            <h2>We believe...</h2>
             <p className='about-para'>At ElevateVisibility, we understand that
              your time and energy should be focused on your core product or
              service, not on navigating complex infrastructure or deployment 

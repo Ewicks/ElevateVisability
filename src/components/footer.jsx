@@ -21,7 +21,7 @@ const Footer = () => {
                     <p className='email-text'>ethanowicks9@gmail.com</p>
                 </div>
                 <div className="text-center">
-                    <p className='my-4 mx-3'>© 2024 ElevateVisability | FAQ Privacy Policy</p>
+                    <p className='my-4 mx-3'>© 2024 ElevateVisibility | FAQ Privacy Policy</p>
                 </div>
             </div>
             <div className="col-md-6 col-sm-12 order-sm-1 order-xs-1 d-flex justify-content-center align-items-center">

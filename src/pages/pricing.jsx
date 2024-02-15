@@ -54,7 +54,7 @@ function pricing() {
                     <div className="tick position-absolute">
                       <TiTick />
                     </div>
-                    <p className='ms-4'>Mordern design tailored to your brands <br />
+                    <p className='ms-4'>Modern design tailored to your brands <br />
                   identity and style</p>
                 </div>
                 <div className="point position-relative">
