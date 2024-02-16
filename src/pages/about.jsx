@@ -1,7 +1,9 @@
 import React from 'react'
-import world from '../assets/images/ball3.png';
 import MarketingImg from '../assets/images/marketing-img.png';
 import MarketingImg2 from '../assets/images/team-photo.jpg';
+import Seo from '../assets/images/seo.png';
+import WebMain from '../assets/images/web-main.png';
+import WebDev from '../assets/images/web-dev.png';
 
 function about() {
  
@@ -60,11 +62,11 @@ function about() {
                 <h2>Web Development</h2>
                 <p className='sales-subtitle text-left'>Whether you're
                  just starting out or looking to revamp your online 
-                 presence, our team is dedicated to creating stunning
+                 presence, <br /> our team is dedicated to creating stunning
                   websites that not only look great but also drive results.</p>
               </div>
               <div className='image-section'>
-                <img className='sales-img' src={world} alt="" />
+                <img className='sales-img' src={WebDev} alt="" />
               </div>
             </div>
           </div>
@@ -81,7 +83,7 @@ function about() {
                   promoting your business online.</p>
               </div>
               <div className='image-section'>
-                <img className='sales-img' src={world} alt="" />
+                <img className='sales-img' src={Seo} alt="" />
               </div>
             </div>
           </div>
@@ -96,7 +98,7 @@ function about() {
                  aspects of upkeep for you.</p>
               </div>
               <div className='image-section'>
-                <img className='sales-img' src={world} alt="" />
+                <img className='sales-img' src={WebMain} alt="" />
               </div>
             </div>
           </div>

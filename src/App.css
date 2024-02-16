@@ -474,8 +474,9 @@ body {
 }
 
 .sales-img {
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
 }
 
 .container-2 {
