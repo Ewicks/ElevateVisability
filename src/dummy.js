@@ -77,10 +77,10 @@ export const blogData = () => {
       },
       {
         "image": Blog1,
-        "title": "asdasd",
+        "title": "Website Header Design: 8 Must-Have Tips",
         "author": "John Doe",
-        "text": "As renovation experts, we have found that many homeowners with traditional cottages aspire to modernise their living space by opening up the downstairs area. While this can certainly create a more spacious and contemporary feel, we often caution our clients against removing the downstairs WC. The downstairs WC may seem like an insignificant space, but ",
-        "date": "2024/02/01",
+        "text": "Once you’ve perfected your hero image – the visual foundation for communicating your brand’s expertise and trustworthiness – you can start focusing on the second most essential website header element for driving conversions: the value proposition. Also known as an elevator pitch, this is the promise that concisely conveys the value you offer to your target audience, and needs to hit the right balance. On the one hand, it needs to be sufficiently impressive, unique, and attractive. But, on the other hand, it also has to be truthful and believable. And let’s not forget that you should also ensure that you always deliver on your promises. If you want to make sure that your unique sales proposition converts, here are the ways to boost it so that it drives results.",
+        "date": "2023/08/21",
         "id": 3
       },
       {
