@@ -93,18 +93,18 @@ export const blogData = () => {
       },
       {
         "image": Blog1,
-        "title": "asdasd",
-        "author": "John Doe",
-        "text": "As renovation experts, we have found that many homeowners with traditional cottages aspire to modernise their living space by opening up the downstairs area. While this can certainly create a more spacious and contemporary feel, we often caution our clients against removing the downstairs WC. The downstairs WC may seem like an insignificant space, but ",
+        "title": "Get Started with Accessibility: 6 Reasons it’s Important for Websites",
+        "author": "Mike Thurstan",
+        "text": "Accessibility shouldn’t be something “added on” to your website at the end. It needs to be a key consideration from the beginning of a website design or redesign project, right through to the end. It should be factored into all aspects, from content and information architecture to UX and UI design, development, and ongoing optimizations and updates. I’m here to arm you with statistics and information to help prove the importance of website accessibility. It’s not a “nice-to-have” or or something “you don’t have budget for,” but a foundation across all parts of your website. It has a much greater impact on your website’s success than you think. We’ll explore six crucial, fact-based reasons why accessibility is important for all websites.",
         "date": "2024/02/01",
         "id": 2
       },
       {
         "image": Blog1,
-        "title": "test",
-        "author": "test",
-        "text": "As renovation experts, we have found that many homeowners with traditional cottages aspire to modernise their living space by opening up the downstairs area. While this can certainly create a more spacious and contemporary feel, we often caution our clients against removing the downstairs WC. The downstairs WC may seem like an insignificant space, but ",
-        "date": "2024/02/01",
+        "title": "How to Increase Organic Traffic: 10 Easy SEO Strategies",
+        "author": "John Belmar",
+        "text": "Keyword strategy has changed a lot in the last five years. Although having a target phrase or keywords is still important for your pages and posts, where you put them and how search engines use them is different. Repeating the exact phrasing multiple times, aka ‘keyword stuffing’, is no longer the way to capture searches – and if your content does that, it will quickly plummet in rankings. Google and other search engines now assess search intent, and can understand synonyms and casual conversation (voice searches) just as well as fixed phrasing that exactly matches a search.",
+        "date": "2023/11/010",
         "id": 3
       }
     ];
