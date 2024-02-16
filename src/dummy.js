@@ -53,26 +53,26 @@ export const blogData = () => {
       },
       {
         "image": Blog4,
-        "title": "asdasd",
-        "author": "John Doe",
-        "text": "Refurbishing your bathroom can be an exciting project that can enhance the comfort, functionality and value of your home. However, before delving into the project, there are several important steps you should be taken to ensure that the renovation goes smoothly and meets your needs. Create an inventory of your current bathroom. What’s in you",
-        "date": "2024/02/01",
+        "title": "5 Ways Web Hosting Impacts User Experience",
+        "author": "Ben White",
+        "text": "Whatever the purpose of your business website, the quality of its user experience (UX) can be a huge predictor of how successful it is in achieving its purpose. Even a single metric, like a website’s loading speed or security, has the potential to totally transform its conversion rate. That’s why even though UX is often thought of as primarily a designer’s concern, it’s actually something that no business owner can afford to ignore – and your web hosting can have a tremendous impact on the experience of visiting your site. In this post, we’ll take a deeper look at some of the most important ways reliable web hosting can impact your UX, and how you can apply this knowledge to create a positive experience for your customers.",
+        "date": "2023/07/01",
         "id": 1
       },
       {
         "image": Blog1,
-        "title": "asdasd",
-        "author": "John Doe",
-        "text": "As renovation experts, we have found that many homeowners with traditional cottages aspire to modernise their living space by opening up the downstairs area. While this can certainly create a more spacious and contemporary feel, we often caution our clients against removing the downstairs WC. The downstairs WC may seem like an insignificant space, but ",
-        "date": "2024/02/01",
+        "title": "Understanding SEO & Web Development: 5 Key Factors",
+        "author": "Phil collins",
+        "text": "igital marketing relies heavily on web development and design. Your website is often the primary online channel for engaging with prospects and customers. If your Shopify or WordPress website is not performing as well as you’d like, your business is missing out on sales. It’s crucial to provide visitors with a positive image of your business and make it easy for them to use your site. But optimizing for major search engines like Google and Bing is even more important, because search is a vital source of website traffic. If you’re looking for ways to improve your website’s visibility and attract more targeted visitors, then understanding the role of web development in SEO is crucial. In this article, you’ll learn the key elements of web development that impact your site’s SEO. We’ll also share examples and best practices to help you achieve better results.",
+        "date": "2024/01/24",
         "id": 2
       },
       {
         "image": Blog1,
-        "title": "asdasd",
-        "author": "John Doe",
-        "text": "As renovation experts, we have found that many homeowners with traditional cottages aspire to modernise their living space by opening up the downstairs area. While this can certainly create a more spacious and contemporary feel, we often caution our clients against removing the downstairs WC. The downstairs WC may seem like an insignificant space, but ",
-        "date": "2024/02/01",
+        "title": "9 Tools to Optimize Your Marketing Funnel",
+        "author": "Luke Belmar",
+        "text": "In today’s vast and competitive global business arena, having a great product or service isn’t enough to guarantee success. With a huge boom in new companies launching since the pandemic, and modern consumers demanding increasingly personalized and instant experiences from every brand, driving website visitors from the awareness stage through to conversion is extremely tough for many small businesses. If you’ve exhausted yourself developing a quality offering but you’re just not seeing conversions, it may be time to review your tech stack and consider how much your tools are actually doing for you. In this post, we’ll look at nine of our favourite industry tools that will help you optimize and improve your marketing funnel. You will find some great SaaS options here to elevate your digital marketing and drive sales. ",
+        "date": "2023/05/12",
         "id": 3
       },
       {
@@ -85,10 +85,10 @@ export const blogData = () => {
       },
       {
         "image": Blog1,
-        "title": "asdasd",
+        "title": "10 Google Ranking Factors You Need To Prioritize in 2023",
         "author": "John Doe",
-        "text": "Refurbishing your bathroom can be an exciting project that can enhance the comfort, functionality and value of your home. However, before delving into the project, there are several important steps you should be taken to ensure that the renovation goes smoothly and meets your needs. Create an inventory of your current bathroom. What’s in you",
-        "date": "2024/02/01",
+        "text": "Google is the world’s most popular and powerful search engine, bar none, with around 84% of the search market share in North America. When we talk about improving our ranking through SEO, we’re generally referring to Google’s ranking factors as opposed to Bing, Yahoo, or other alternative search engines. That’s why it’s so important to learn how to help your content appear at the top of Google’s search engine results pages (SERPs) when your target audience searches for keywords relating to your products or services. But that’s easier said than done, especially considering the fact that there are over 200 ranking factors Google considers when deciding who gets the top spot. However, some ranking factors are more important than others. They are the factors that have persisted through Google’s many broad core algorithm updates over the last decade, some even gaining more importance now than ever before. Read on to discover the top Google ranking factors to prioritize in 2023.",
+        "date": "2023/07/11",
         "id": 1
       },
       {
