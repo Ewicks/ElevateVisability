@@ -727,7 +727,7 @@ a {
 
 .title-container {
   height: 50vh;
-  background-image: linear-gradient(200.41deg,rgba(99,29,62,.4) -5.53%,rgba(35,98,111,.5) 97.77%) !important;
+  background-color: hsl(254, 75%, 56%);
   color: white;
   display: flex;
   justify-content: flex-start;
