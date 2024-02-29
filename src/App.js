@@ -7,8 +7,9 @@ import Pricing from './pages/pricing';
 import About from './pages/about';
 import Blogs from './pages/blogs';
 import Contact from './pages/contact';
-import Blog from './pages/blog1';
+import Blog from './pages/blog-posts/blog1';
 import Blog2 from './pages/blog-posts/blog2';
+import Blog3 from './pages/blog-posts/blog3';
 
 
 
@@ -23,8 +24,9 @@ function App() {
             <Route path='/about' element={<About />} />
             <Route path='/blogs' element={<Blogs />} />
             <Route path='/contact' element={<Contact />} />
-            <Route path='/blog1' element={<Blog />} />
+            <Route path='blog-posts/blog1' element={<Blog />} />
             <Route path='/blog-posts/blog2' element={<Blog2 />} />
+            <Route path='/blog-posts/blog3' element={<Blog3 />} />
           </Routes>
         <Footer />
       </Router>
