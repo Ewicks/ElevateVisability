@@ -13,8 +13,8 @@ function blog1() {
                     </div>
                     <div className="author">
                         <img src={Author} alt="" />
-                        <h3 className='my-3'>Mark Walker-Ford</h3>
-                        <p>Director, Elevate Visibility</p>
+                        <h3 className='my-3 text-dark'>Mark Walker-Ford</h3>
+                        <p className='text-dark'>Director, Elevate Visibility</p>
                     </div>
                 </div>
             </div>
@@ -22,9 +22,9 @@ function blog1() {
         </div>
         <div className="container-fluid blog-post-bg">
         <div className="row">
-            <div className="col-12 text-light p-5 line-height-p">
+            <div className="col-12 text-dark p-5 line-height-p">
                 <p>
-                Are you wondering how people judge your website design? Want to know what they look at how they act whilst visiting your site? <br />Crucial share the stats you need to know in this infographic. <br />Here’s a summary of what they share:
+                Are you wondering how people judge your <span className='color'>website design</span>? Want to know what they look at how they act whilst visiting your site? <br />Crucial share the stats you need to know in this infographic. <br />Here’s a summary of what they share:
                 </p>
                 <ul>
                     <li>The power of digital influence</li>
