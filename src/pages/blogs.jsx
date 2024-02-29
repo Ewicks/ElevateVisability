@@ -34,8 +34,6 @@ function Blog() {
       </div>
       <div className="container">
         <Posts posts={currentPosts} loading={loading} />
-
-        
       </div>
       <ul className="pagination">
           {Array.from({ length: Math.ceil(posts.length / postsPerPage) }, (_, index) => (

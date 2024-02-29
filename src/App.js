@@ -7,6 +7,8 @@ import Pricing from './pages/pricing';
 import About from './pages/about';
 import Blogs from './pages/blogs';
 import Contact from './pages/contact';
+import Blog from './pages/blog1';
+
 
 
 function App() {
@@ -20,6 +22,7 @@ function App() {
             <Route path='/about' element={<About />} />
             <Route path='/blogs' element={<Blogs />} />
             <Route path='/contact' element={<Contact />} />
+            <Route path='/blog1' element={<Blog />} />
           </Routes>
         <Footer />
       </Router>

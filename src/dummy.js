@@ -33,7 +33,8 @@ export const blogData = () => {
         "author": "David James",
         "text": "Web development is the process of building websites and apps for the internet—or for a private network known as an intranet. Web developers bring the design and functionality of a website to life, writing code that determines things like style, layout, and interactivity. From the most simple, static web pages to social media platforms and apps; from e-commerce websites to content management systems (like WordPress)—all the tools we use via the internet have been built by web developers. There are three different types (or layers) of web development: The frontend, the backend, and database technology. Frontend development, otherwise known as client-side scripting, encompasses all the elements of a website that the user experiences directly. Things like layout, font, colors, menus, and contact forms are all powered by the frontend. Backend development, or server-side scripting, is all about what goes on behind the scenes. When you interact with a website in some way—for example, filling out a form and clicking “submit”—the frontend communicates this action to the backend. The backend responds by sending the relevant information to the frontend—for example, the code needed to display a message such as “Thank you for filling out this form”. The third layer comprises database technology. The database contains all the files and content that are necessary for a website to function, storing it in such a way that makes it easy to retrieve, organize, edit, and save. The frontend, backend, and database technology all work together to build and run a fully functional website or application. As such, these three layers form the foundation of web development. ",
         "date": "03/01/2024",
-        "id": 1
+        "id": 1,
+        'href': '/blog1',
       },
       {
         "image": Blog2,
