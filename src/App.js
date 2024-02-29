@@ -8,6 +8,7 @@ import About from './pages/about';
 import Blogs from './pages/blogs';
 import Contact from './pages/contact';
 import Blog from './pages/blog1';
+import Blog2 from './pages/blog-posts/blog2';
 
 
 
@@ -23,6 +24,7 @@ function App() {
             <Route path='/blogs' element={<Blogs />} />
             <Route path='/contact' element={<Contact />} />
             <Route path='/blog1' element={<Blog />} />
+            <Route path='/blog-posts/blog2' element={<Blog2 />} />
           </Routes>
         <Footer />
       </Router>

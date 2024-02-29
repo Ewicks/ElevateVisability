@@ -742,8 +742,12 @@ a {
 }
 
 .line-height-p {
-  line-height: 46px;
+  line-height: 35px;
   font-weight: 600;
+}
+
+h3 {
+  margin: 20px 0px;
 }
 
 .line-height-p p {

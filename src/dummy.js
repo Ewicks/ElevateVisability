@@ -42,7 +42,8 @@ export const blogData = () => {
         "author": "John Fitzgerald Kennedy",
         "text": "Can you believe that we're part of a world where over 5.30 billion people are connected through the Internet? That's more than half of our global population, actively engaging in research, connection, education, and entertainment through this incredible digital universe. Personally, I believe the Internet isn’t just a luxury; it's a fundamental part of our daily lives. Given the rapidly increasing number of Internet users, it’s no surprise that web development is a rapidly expanding industry. Between now and 2030, the employment of web developers is expected to grow by 13%, much faster than most other technology careers. It's an exciting time to be in this field, and I'm thrilled to be part of this dynamic industry.",
         "date": "11/05/2023",
-        "id": 2
+        "id": 2,
+        'href': '/blog-posts/blog2',
       },
       {
         "image": Blog3,
