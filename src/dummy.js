@@ -57,11 +57,12 @@ export const blogData = () => {
       },
       {
         "image": Blog4,
-        "title": "5 Ways Web Hosting Impacts User Experience",
+        "title": "Maximizing SEO Impact: 10 Strategic Locations for Keyword Placement on Your Website",
         "author": "Ben White",
-        "text": "Whatever the purpose of your business website, the quality of its user experience (UX) can be a huge predictor of how successful it is in achieving its purpose. Even a single metric, like a website’s loading speed or security, has the potential to totally transform its conversion rate. That’s why even though UX is often thought of as primarily a designer’s concern, it’s actually something that no business owner can afford to ignore – and your web hosting can have a tremendous impact on the experience of visiting your site. In this post, we’ll take a deeper look at some of the most important ways reliable web hosting can impact your UX, and how you can apply this knowledge to create a positive experience for your customers.",
+        "text": " In today's digital landscape, the success of your website hinges on its visibility to users searching for relevant content. Mastering Search Engine Optimization (SEO) is essential to ensure your website ranks higher on search engine results pages and attracts organic traffic. One crucial aspect of SEO is the strategic placement of keywords throughout your website. In this comprehensive guide, we'll explore ten key locations where inserting keywords can significantly boost your website's SEO performance, ultimately driving more traffic and increasing your online presence.",
         "date": "2023/07/01",
-        "id": 1
+        "id": 1,
+        'href': '/blog-posts/blog4', 
       },
       {
         "image": Blog1,
