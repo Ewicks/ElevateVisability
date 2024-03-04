@@ -31,7 +31,7 @@ export const blogData = () => {
         "image": Blog1,
         "title": "How People Judge Your Website & Decide Whether to Contact You",
         "author": "David James",
-        "text": "In today’s digital age, your website is often the first point of contact between your business and potential customers. <br />It serves as a virtual storefront, a platform to showcase your products, services, and brand identity. But have you ever considered how quickly people judge your website and decide whether to contact you? <br />In this blog post, we’ll explore the power of digital influence, the importance of first impressions, where visitors look on your site, their page scrolling habits, and the significance of mobile-friendliness in shaping user decisions.",
+        "text": "In today’s digital age, your website is often the first point of contact between your business and potential customers. It serves as a virtual storefront, a platform to showcase your products, services, and brand identity. But have you ever considered how quickly people judge your website and decide whether to contact you? In this blog post, we’ll explore the power of digital influence, the importance of first impressions, where visitors look on your site, their page scrolling habits, and the significance of mobile-friendliness in shaping user decisions.",
         "date": "03/01/2024",
         "id": 1,
         'href': '/blog-posts/blog1',
