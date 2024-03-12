@@ -18,7 +18,7 @@ const Footer = () => {
                 </div>
                 <div className="email">
                     <MdEmail />
-                    <p className='email-text'>ethanowicks9@gmail.com</p>
+                    <p className='email-text'>ethan@elevatevisibility.co.uk</p>
                 </div>
                 <div className="text-center">
                     <p className='my-4 mx-3'>© 2024 ElevateVisibility | FAQ Privacy Policy</p>
