@@ -3,6 +3,8 @@ import "../../src/App.css";
 import { Link } from 'react-router-dom';
 
 
+
+
 function home() {
   return (
     <div>
@@ -104,7 +106,7 @@ function home() {
                         <div className="contact-container bg-opacity-50 text-light">
                             <h2>Contact us <br />to learn more</h2>
                             <p>We are happy to talk over the phone more about what we can offer and if you are a good fit for us.</p>
-                            <Link to='/contact' className='home-btn btn'>Contact Us</Link>
+                            <a href='/contact' className='home-btn btn'>Contact Us</a>
                         </div>
                     </div>
                 </div>
