@@ -1,8 +1,5 @@
 import React from 'react'
 import "../../src/App.css";
-import { Link } from 'react-router-dom';
-
-
 
 
 function home() {
@@ -16,7 +13,7 @@ function home() {
                         <p className='home-subtitle'>At ElevateVisability, we specialize in boosting revenue <br />
                          for businesses of all sizes. With innovative strategies and proven methods, we help clients
                           achieve sales goals and maximize profitability.</p>
-                        <Link to='/contact' className='home-btn mt-4'>Contact Us</Link>
+                        <a href='/contact' className='home-btn mt-4'>Contact Us</a>
                     </div>
                 </div>
             </div>

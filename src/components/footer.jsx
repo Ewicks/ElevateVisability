@@ -1,7 +1,6 @@
 import React from 'react'
 import { FaPhone } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import { Link } from 'react-router-dom';
 
 
 const Footer = () => {
@@ -10,7 +9,7 @@ const Footer = () => {
         <div className="row">
             <div className="col-md-6 col-sm-12 order-sm-2 order-xs-2 d-flex justify-content-center align-items-center flex-column my-5">
                 <div className="">
-                    <Link className='footer-logo' to='/'>ElevateVisability</Link>
+                    <a className='footer-logo' href='/'>ElevateVisability</a>
                 </div>
                 <div className="phone mt-3">
                     <FaPhone />
@@ -29,18 +28,18 @@ const Footer = () => {
                     <ul className='p-0'>
                         <p className='links-title'>LINKS</p>
                         <li>
-                            <Link to='/pricing'>Pricing</Link>
+                            <a href='/pricing'>Pricing</a>
                         </li>
                         <li>
-                            <Link to='/about'>About</Link>
+                            <a href='/about'>About</a>
 
                         </li>
                         <li>
-                            <Link to='/blogs'>Blogs</Link>
+                            <a href='/blogs'>Blogs</a>
 
                         </li>
                         <li>
-                            <Link to='/contact'>Contact</Link>
+                            <a href='/contact'>Contact</a>
 
                         </li>
                     </ul>
